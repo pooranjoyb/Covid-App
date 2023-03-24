@@ -42,6 +42,10 @@ Start the app.
 python main.py
 ```
 
+## Demonstration
+
+[Video-Fri-Feb-17-2023-01-32-00.webm](https://user-images.githubusercontent.com/90945182/219480692-b1347b8b-8b9a-4165-9edb-913fba44de5f.webm)
+
 ## Built With
 
 - [Python](https://www.python.org) - The programming language used
@@ -51,7 +55,7 @@ python main.py
 
 ## Authors
 
-- **[Pooranjoy Bhattacharya](https://github.com/pooranjoyb)** - *Initial work*
+- **[Pooranjoy Bhattacharya](https://github.com/pooranjoyb)** 
 
 
 ## License
