@@ -1,6 +1,0 @@
-The required Libraries are:
-
-beautifulsoup4
-requests
-tkinter
-datetime

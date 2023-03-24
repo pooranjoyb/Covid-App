@@ -1,6 +1,0 @@
-The required library is: 
-       
-       tkinter
-       SpeechRecognition
-       pyttsx3 
-       

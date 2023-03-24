@@ -1,4 +1,0 @@
-## LIBRARIES NEEDED
-
-requests
-Tkinter
