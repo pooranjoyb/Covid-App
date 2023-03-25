@@ -1,6 +1,6 @@
 # COVID-19 Tracker App
 
-A desktop application to track the latest COVID-19 information using Python and KivyMD, and RapidAPI for fetching information.
+A desktop application to track the latest COVID-19 information using Python, KivyMD and RapidAPI for fetching information.
 
 ## This project is under DWOC'2023
 
@@ -23,7 +23,7 @@ Clone the repository and install the required packages.
 
 ```
 git clone https://github.com/pooranjoyb/Play-With-Python.git
-cd '.\Covid Tracker App\'
+cd '.\Covid-App\'
 pip install -r requirements.txt
 ```
 
